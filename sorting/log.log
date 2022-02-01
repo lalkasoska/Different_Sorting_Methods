@@ -1,0 +1,112 @@
+2021-12-14 12:10:29.023 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:29.027 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:29.031 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:29.033 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:29.036 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:29.039 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:39.252 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSort.txt
+2021-12-14 12:10:43.529 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:43.554 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:43.580 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:43.608 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:43.633 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:43.658 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:43.659 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSort.txt
+2021-12-14 12:10:45.836 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:45.882 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:45.909 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:45.955 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:45.982 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:46.030 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:46.030 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSort.txt
+2021-12-14 12:10:47.625 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:49.672 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:49.714 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:51.723 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:51.764 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:10:53.798 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:10:53.799 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSort.txt
+2021-12-14 12:10:56.751 INFO Sorting - generate_array: Array generated - Size: 100000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:14:15.021 INFO Sorting - sort_array: Array sorted - Size: 100000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:14:15.204 INFO Sorting - generate_array: Array generated - Size: 100000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:17:33.957 INFO Sorting - sort_array: Array sorted - Size: 100000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:17:34.141 INFO Sorting - generate_array: Array generated - Size: 100000, Number_type: integer, Values from 0 to 9
+2021-12-14 12:20:52.250 INFO Sorting - sort_array: Array sorted - Size: 100000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:20:52.251 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSort.txt
+2021-12-14 12:21:29.387 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: float, Values from 0 to 9
+2021-12-14 12:21:34.469 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:21:34.505 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: float, Values from 0 to 9
+2021-12-14 12:21:39.590 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:21:39.625 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: float, Values from 0 to 9
+2021-12-14 12:21:44.568 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:03.344 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSortFloat.txt
+2021-12-14 12:22:10.530 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:10.607 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:10.633 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:10.710 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:10.736 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:10.814 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:10.815 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSortFloat.txt
+2021-12-14 12:22:12.964 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:12.990 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:13.015 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:13.040 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:13.065 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:13.090 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:13.091 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSortFloat.txt
+2021-12-14 12:22:15.042 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:15.045 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:15.049 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:15.052 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:15.055 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: float, Values from 0 to 9
+2021-12-14 12:22:15.058 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: Вятскин Сортировка V.1 
+2021-12-14 12:22:15.058 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/VyatSortFloat.txt
+2021-12-14 12:23:49.163 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:23:49.163 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:23:49.166 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:23:49.166 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:23:49.169 INFO Sorting - generate_array: Array generated - Size: 10, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:23:49.169 INFO Sorting - sort_array: Array sorted - Size: 10, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:10.037 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/QsortRecursiveNotMineFloat.txt
+2021-12-14 12:24:15.106 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:15.107 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:15.134 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:15.135 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:15.163 INFO Sorting - generate_array: Array generated - Size: 100, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:15.164 INFO Sorting - sort_array: Array sorted - Size: 100, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:15.164 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/QsortRecursiveNotMineFloat.txt
+2021-12-14 12:24:16.836 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:16.840 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:16.868 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:16.871 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:16.899 INFO Sorting - generate_array: Array generated - Size: 1000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:16.902 INFO Sorting - sort_array: Array sorted - Size: 1000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:16.903 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/QsortRecursiveNotMineFloat.txt
+2021-12-14 12:24:18.365 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:18.403 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:18.441 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:18.481 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:18.520 INFO Sorting - generate_array: Array generated - Size: 10000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:18.557 INFO Sorting - sort_array: Array sorted - Size: 10000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:18.557 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/QsortRecursiveNotMineFloat.txt
+2021-12-14 12:24:21.406 INFO Sorting - generate_array: Array generated - Size: 100000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:21.841 INFO Sorting - sort_array: Array sorted - Size: 100000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:21.966 INFO Sorting - generate_array: Array generated - Size: 100000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:22.405 INFO Sorting - sort_array: Array sorted - Size: 100000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:22.540 INFO Sorting - generate_array: Array generated - Size: 100000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:23.002 INFO Sorting - sort_array: Array sorted - Size: 100000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:23.002 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/QsortRecursiveNotMineFloat.txt
+2021-12-14 12:24:26.309 INFO Sorting - generate_array: Array generated - Size: 1000000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:32.027 INFO Sorting - sort_array: Array sorted - Size: 1000000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:33.057 INFO Sorting - generate_array: Array generated - Size: 1000000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:38.562 INFO Sorting - sort_array: Array sorted - Size: 1000000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:39.586 INFO Sorting - generate_array: Array generated - Size: 1000000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:24:45.008 INFO Sorting - sort_array: Array sorted - Size: 1000000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:24:45.009 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/QsortRecursiveNotMineFloat.txt
+2021-12-14 12:25:05.576 INFO Sorting - generate_array: Array generated - Size: 10000000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:26:12.118 INFO Sorting - sort_array: Array sorted - Size: 10000000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:26:22.041 INFO Sorting - generate_array: Array generated - Size: 10000000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:27:29.048 INFO Sorting - sort_array: Array sorted - Size: 10000000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:27:38.907 INFO Sorting - generate_array: Array generated - Size: 10000000, Number_type: float, Values from -9999999 to 9999999
+2021-12-14 12:28:45.640 INFO Sorting - sort_array: Array sorted - Size: 10000000, IsInverted = 0, Sorting method: QSort_recursive_not_mine
+2021-12-14 12:28:45.641 INFO Sorting - average_button_clicked: Average result saved as C:/Users/D1m4/Desktop/Research/Research/dist/Dots/QsortRecursiveNotMineFloat.txt
